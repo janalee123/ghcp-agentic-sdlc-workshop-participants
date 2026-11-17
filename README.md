@@ -9,6 +9,7 @@ This is the participant guide for **GitHub Copilot Business in VS Code**. You do
 1. **Before the session:** complete the [pre-work](labs/agentic-sdlc-vscode-prework.md), about 20-30 minutes.
 2. **During the session:** follow the [hands-on lab](labs/agentic-sdlc-vscode.md) in order.
 3. **Need to catch up?** Use the lab's [solution files](labs/agentic-sdlc-vscode.md#solution-files) and [troubleshooting](labs/agentic-sdlc-vscode.md#troubleshooting).
+4. **Not sure it worked?** Compare your run with the [What to Look For](what-to-look-for/README.md) screenshots. They show the steps between your prompt and the answer: which instructions loaded, which skills and subagents ran, and which MCP tools were called.
 
 ### Which Repository Do I Work In?
 
@@ -64,8 +65,9 @@ The sample is .NET 8 + React, but the workflow lessons are host-agnostic. Openin
 |---|---|
 | [Pre-work](labs/agentic-sdlc-vscode-prework.md) | Accounts, tools, starter setup, and readiness checks |
 | [Hands-on lab](labs/agentic-sdlc-vscode.md) | Parts 0-11, troubleshooting, and copyable solution files |
+| [What to Look For](what-to-look-for/README.md) | Annotated screenshots from a dry run, showing the progress steps to check in each part |
 
-All required examples and diagrams are inline in the lab. This edition intentionally excludes presenter decks and notes, demo screenshots, internal handoffs, and unrelated demo repositories. No access to the source workshop repository or a private issue tracker is required.
+All required examples and diagrams are inline in the lab. This edition intentionally excludes presenter decks and notes, internal handoffs, and unrelated demo repositories. No access to the source workshop repository or a private issue tracker is required.
 
 ## Credits and Licensing
 
